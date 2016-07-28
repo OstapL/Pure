@@ -1,5 +1,14 @@
 /* Large Screen  */
-
+@media (min-width: 1400px) {
+.header-wrap .center-banner-area .banner-text {
+        left: 15%;
+    top: 100px;
+}
+.center-banner-area .banner-text {
+    top: 150px;
+    left: 25%;
+}
+}
 @media (min-width: 1170px) and (max-width: 1400px) {
     .slider-content {
         color: #212121;
@@ -46,6 +55,7 @@
     .mobile-menu-area{
     display: none;
 }
+
 }
 /* Start Normal desktop :992px. */
 

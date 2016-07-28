@@ -74,7 +74,8 @@
 				itemsDesktop : [1199,4],
 				itemsDesktopSmall : [979,3],
 				itemsTablet: [767,1],
-				rewindNav : false
+				rewindNav : false,
+				navigationText : ["",""]
 			});	
       
       
@@ -86,7 +87,8 @@
 				itemsDesktop : [1199,4],
 				itemsDesktopSmall : [979,3],
 				itemsTablet: [767,1],
-				rewindNav : false
+				rewindNav : false,
+				navigationText : ["",""]
 			});	
       
       
@@ -107,7 +109,8 @@
 				itemsDesktop : [1199,4],
 				itemsDesktopSmall : [979,3],
 				itemsTablet: [600,3],
-				rewindNav : false
+				rewindNav : false,
+				navigationText : ["",""]
 			});
 			$(".catagory-thumb-slide").owlCarousel({
 				autoPlay: false,
